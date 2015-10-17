@@ -16,8 +16,8 @@ Conversor en JavaScript de grados Celsius a Farenheit y viceversade la temperatu
 
 ### Despliegue en github.io
 
-* [https://github.com/alu4543/Practica-2](https://github.com/alu4543/Practica-2)
+* [https://github.com/alu4543/STW-2](https://github.com/alu4543/STW-2)
 
 ### Ejecutar las pruebas
 
-* [https://github.com/alu4543/Practica-2/tests/index.html](https://github.com/alu4543/Practica-2/tests/index.html)
+* [https://github.com/alu4543/STW-2/tests/index.html](https://github.com/alu4543/STW-2/tests/index.html)

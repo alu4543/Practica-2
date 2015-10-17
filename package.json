@@ -5,7 +5,7 @@
     "chai": "*",
     "mocha": "*"
   },
-  "name": "Practica-2",
+  "name": "STW-2",
   "version": "1.0.0",
   "description": "Conversor en JavaScript de grados Celsius a Farenheit y viceversade la temperatura con uso de Emmet, npm, Package.json, Mocha, Chai y Gulp\r ### Descripción de la Práctica\r Conversor en JavaScript de grados Celsius a Farenheit y viceversade la temperatura con uso de Emmet, npm, Package.json, Mocha, Chai y Gulp",
   "main": "temperature.js",
@@ -14,13 +14,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alu4543/Practica-2.git"
+    "url": "git+https://github.com/alu4543/STW-2.git"
   },
   "keywords": [],
   "author": "Mohammed Mahrach",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alu4543/Practica-2/issues"
+    "url": "https://github.com/alu4543/STW-2/issues"
   },
-  "homepage": "https://github.com/alu4543/Practica-2#readme"
+  "homepage": "https://github.com/alu4543/STW-2#readme"
 }
